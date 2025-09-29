@@ -1,6 +1,6 @@
 # graphql-cheatsheet
 
-A few cheat sheets for GraphQL ([sketch source](graphql-cheatsheet.sketch), [pdf](graphql-cheatsheet.pdf)).
+A cheat sheet for GraphQL ([sketch source](graphql-cheatsheet.sketch), [pdf](graphql-cheatsheet.pdf)).
 
 ## License
 
